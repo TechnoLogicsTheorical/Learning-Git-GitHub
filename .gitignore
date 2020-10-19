@@ -1,6 +1,2 @@
-tmp/*.txt
 tmp/*
-<<<<<<< HEAD
-*.xml
-=======
->>>>>>> a5dba08... Clear one line in file '.gitignore'
+*.txt
